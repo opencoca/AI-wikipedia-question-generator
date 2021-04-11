@@ -1,15 +1,15 @@
 wikipedia-question-generator
 ============================
 
-**This project is no longer maintained. It is MIT licensed, so you're welcome to take the code and use it yourself.**
+This project is maintained. It is AGPL licensed, so you're welcome to take the code and use it yourself.
 
 Uses Natural Language Processing and Wikipedia content to try to generate Mad Libs-style game questions. Powers the web app at http://wikitrivia.atbaker.me.
 
-Built for [TrackMaven Monthly Challenge meetup](http://www.meetup.com/TrackMaven-Monthly-Challenge/events/218683569/) in December 2014.
+Originally built for [TrackMaven Monthly Challenge meetup](http://www.meetup.com/TrackMaven-Monthly-Challenge/events/218683569/) in December 2014.
 
-I also made [a short presentation](http://slides.com/atbaker/trackmaven-monthly-challenge-demo) about the project. See [this YouTube video](https://www.youtube.com/watch?v=UJR1BYjtI7c&feature=youtu.be&t=1m46s) for an idea of the kind of game these questions are meant to support.
+See [this YouTube video](https://www.youtube.com/watch?v=UJR1BYjtI7c&feature=youtu.be&t=1m46s) for an idea of the kind of game these questions are meant to support.
 
-wikipedia-question-generator is open source under the [MIT License](LICENSE).
+wikipedia-question-generator is open source under the [AGPL License](LICENSE).
 
 Sample usage
 ------------
@@ -17,7 +17,7 @@ Sample usage
 Running the command:
 
 ```bash
-$ wikitrivia 'Tony Bennett'
+$ wikitrivia 'art'
 ```
 
 yields:
