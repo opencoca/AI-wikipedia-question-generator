@@ -1,8 +1,8 @@
 # Dockerfile for wikipedia-question-generator
 
-FROM python:3.4
+FROM python:3.7.10
 
-MAINTAINER Andrew T. Baker <andrew.tork.baker@gmail.com>
+MAINTAINER OpenCo Admin and Startr team <aadmin@openco.org>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
