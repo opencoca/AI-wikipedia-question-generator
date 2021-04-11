@@ -7,6 +7,9 @@ setup(
     include_package_data=True,
     install_requires=[
         'Click',
+        'textblob',
+        'wikipedia',
+        'nltk'
     ],
     entry_points='''
         [console_scripts]
