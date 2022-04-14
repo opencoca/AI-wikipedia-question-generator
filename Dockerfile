@@ -1,6 +1,6 @@
 # Dockerfile for wikipedia-question-generator
 
-FROM python:3.7.10
+FROM python:latest
 
 MAINTAINER OpenCo Admin and Startr team <aadmin@openco.org>
 
