@@ -5,7 +5,9 @@ import re
 import wikipedia
 
 class Article:
-    """Retrieves and analyzes wikipedia articles"""
+    """Retrieves and analyzes wikipedia articles
+    TODO allow use of any web source
+    """
 
     def __init__(self, title):
         self.page = wikipedia.page(title)
